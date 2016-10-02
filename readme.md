@@ -2,4 +2,4 @@
 
 Esta serie de libros cuentan la historia de un hacker....
 
-** Juan A. Caballero**, Arturo Perez  
+** Juan A. Caballero**, Git Lover & Arturo Perez
